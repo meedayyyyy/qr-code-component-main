@@ -17,7 +17,7 @@ body{
 }
 
 .card-container{
-    width: 280px;
+    width: 80%;
     display: flex;
     flex-direction: column;
     padding: 12px;
@@ -48,8 +48,8 @@ padding-bottom: 2px;
 text-decoration: none;
 }
 
-@media(max-width: 375px){
+@media(min-width: 375px){
     .card-container{
-        width: 80%;
+        width:280px;
     }
 }
