@@ -9,11 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/meedayyyyy/qr-code-component-main)
+- Live Site URL: [Live Site](https://rad-caramel-d31dd9.netlify.app/)
 
 ## My process
 
@@ -40,9 +36,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@meedayyyyy](https://www.frontendmentor.io/profile/meedayyyyy)
 - Twitter - [@meedayyyyy](https://www.twitter.com/meedayyyyy)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 
