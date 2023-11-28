@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/meedayyyyy/qr-code-component-main)
+- Live Site URL: [Live Site](https://rad-caramel-d31dd9.netlify.app/)
 
 ## My process
 
@@ -32,8 +32,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 
+
+
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/meedayyyyy)
+- Frontend Mentor - [@meedayyyyy](https://www.frontendmentor.io/profile/meedayyyyy)
 - Twitter - [@meedayyyyy](https://www.twitter.com/meedayyyyy)
 
